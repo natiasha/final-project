@@ -1,0 +1,1395 @@
+/*responsive*/
+@media screen and (max-width: 420px) {
+  .home-container {
+  max-width: 420px;
+  font-family: sans-serif;
+  text-decoration: black;
+  width: 100%;
+  background-color:white;
+  }
+}
+  @media screen and (max-width: 420px) {
+  .container{
+  max-width:100%;
+  align-items: center;
+  margin: auto;   
+  }
+}
+   /*  responsive - header area */
+  @media screen and (max-width: 420px) {
+  .more-about-my{
+  display: flex;
+  margin: auto;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+  background-color: white;
+  width: 100%;
+  }
+}
+  @media screen and (max-width: 420px) {
+  .page-title{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-height: 40px;
+  }
+}
+   @media screen and (max-width: 420px) {    
+  .logo{
+    flex-direction: column;
+    padding-left: 20px;
+    padding-top: 30px;
+  }
+} 
+  @media screen and (max-width: 420px) {   
+  .name{
+  font-size: 20px;
+  }
+}
+  
+  @media screen and (max-width: 420px) { 
+  .resume{
+    opacity: 100%;
+  }
+}
+  @media screen and (max-width: 420px) { 
+  .number{
+  display: none;
+  }
+}
+  @media screen and (max-width: 420px) { 
+  .my{
+  display: none;
+  }    
+}
+  @media screen and (max-width: 420px) { 
+  .about-my{
+  display: none;
+  }
+}
+  @media screen and (max-width: 420px) { 
+  .Briefly-about-my{
+  align-items: center;
+  }
+}
+  @media screen and (max-width: 420px) { 
+  #image1{
+  height:200px;
+  }
+}
+ @media screen and (max-width: 420px) { 
+  .info{
+  display: flex;
+  flex-direction: column;
+  }
+}
+ @media screen and (max-width: 420px) { 
+  .clients{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-items: flex-end;
+  }
+}
+    @media screen and (max-width: 420px) { 
+    .canvas0{
+      position: absolute;
+      width: 95%;
+      height: 9px;
+      background-color: #E93656;  
+      transition: all ease-in-out 0.3s;
+    }
+  }
+  @media screen and (max-width: 420px) {
+  .home-container {
+  max-width: 420px;
+  width: 100%;
+  background-color:white;
+  }
+}
+  @media screen and (max-width: 420px) {
+  .container{
+  max-width:90%;
+  align-items: center;
+  margin: auto;   
+   }
+ }
+   /*  responsive - header area */
+  @media screen and (max-width: 420px) {
+  .more-about-my{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+  }
+}
+  @media screen and (max-width: 420px) {
+  .page-title{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-height: 40px;
+  }
+}
+   @media screen and (max-width: 420px) {    
+  .logo{
+    flex-direction: column;
+    padding-left: 20px;
+    padding-top: 30px;
+  }
+} 
+  @media screen and (max-width: 420px) {   
+  .name{
+  font-size: 20px;
+  }
+}
+  
+  @media screen and (max-width: 420px) { 
+  .resume{
+    opacity: 100%;
+  }
+}
+  @media screen and (max-width: 420px) { 
+  .number{
+  display: none;
+  }
+}
+  @media screen and (max-width: 420px) { 
+  .my{
+  display: none;
+  }    
+}
+  @media screen and (max-width: 420px) { 
+  .about-my{
+  display: none;
+  }
+}
+  @media screen and (max-width: 420px) { 
+  .Briefly-about-my{
+  margin-left: 15px;
+  }
+}
+  @media screen and (max-width: 420px) { 
+  #image1{
+  height:100px;
+  }
+}
+ @media screen and (max-width: 420px) { 
+  .info{
+  display: flex;
+  flex-direction: column;
+  }
+}
+ @media screen and (max-width: 420px) { 
+  .clients{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-right:50px;
+  padding-bottom:30px ;
+  align-items: flex-end;
+  }
+}
+    @media screen and (max-width: 420px) { 
+    .canvas0{
+      position: absolute;
+      width: 95%;
+      height: 9px;
+      background-color: #E93656;  
+      transition: all ease-in-out 0.3s;
+    }
+  }
+  @media screen and (max-width: 420px) { 
+  .icons{
+  margin: auto;
+  }
+}  
+  
+  @media screen and (max-width: 768px) {
+    .home-container {
+    max-width: 768px;
+    width: 100%;
+    background-color:white;
+    }
+  }
+    @media screen and (max-width: 768px) {
+    .container{
+    max-width:100%;
+    align-items: center;
+    margin: auto;   
+    }
+  }
+     /*  responsive - header area */
+    @media screen and (max-width: 768px) {
+    .more-about-my{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;    
+    flex-direction: column;
+    }
+  }
+    @media screen and (max-width: 768px) {
+    .page-title{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-height: 40px;
+    }
+  }
+     @media screen and (max-width: 768px) {    
+    .logo{
+      flex-direction: column;
+      padding-left: 20px;
+      padding-top: 30px;
+    }
+  } 
+    @media screen and (max-width: 768px) {   
+    .name{
+    font-size: 20px;
+    }
+  }
+    @media screen and (max-width: 768px) { 
+    .resume{     
+      opacity: 100%;
+    }
+  }
+    @media screen and (max-width: 768px) { 
+    .number{
+    display: none;
+    }
+  }
+    @media screen and (max-width: 768px) { 
+    .my{
+    display: none;
+    }    
+  }
+    @media screen and (max-width: 768px) { 
+    .about-my{
+    display: none;
+    }
+  }
+    @media screen and (max-width: 768px) { 
+    .Briefly-about-my{
+    margin-left: 15px;
+    }
+  }
+    @media screen and (max-width: 768px) { 
+    #image1{
+    height:200px;
+    }
+  }
+   @media screen and (max-width: 768px) { 
+    .info{
+    display: flex;
+    flex-direction: column;
+    }
+  }
+   @media screen and (max-width: 768px) { 
+    .clients{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right:50px;
+    padding-bottom:30px ;
+    align-items: flex-end;
+    }
+  }
+      @media screen and (max-width: 768px) { 
+      .canvas0{
+        position: absolute;
+        width: 95%;
+        height: 9px;
+        background-color: #E93656;     
+        transition: all ease-in-out 0.3s;
+      }
+    }
+    
+    
+  @media screen and (max-width: 1024px) {
+    .home-container {
+    max-width: 768px;
+    width: 100%;
+    background-color: white;
+    }
+  }
+    @media screen and (max-width: 1024px) {
+    .container{
+    max-width:100%;
+    align-items: center;
+    margin: auto;   
+    }
+  }
+     /*  responsive - header area */
+    @media screen and (max-width: 1024px) {
+    .more-about-my{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    }
+  }
+    @media screen and (max-width: 1024px) {
+    .page-title{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-height: 40px;
+    }
+  }
+     @media screen and (max-width: 1024px) {    
+    .logo{
+      flex-direction: column;
+      padding-left: 20px;
+      padding-top: 30px;
+    }
+  } 
+    @media screen and (max-width: 1024px) {   
+    .name{
+    font-size: 20px;
+    }
+  }
+   
+    @media screen and (max-width: 1024px) { 
+    .resume{   
+      opacity: 100%;
+    }
+  }
+    @media screen and (max-width: 1024px) { 
+    .number{
+    display: none;
+    }
+  }
+    @media screen and (max-width: 1024px) { 
+    .my{
+    display: none;
+    }    
+  }
+    @media screen and (max-width: 1024px) { 
+    .about-my{
+    display: none;
+    }
+  }
+    @media screen and (max-width: 1024px) { 
+    .Briefly-about-my{
+    margin-left: 15px;
+    }
+  }
+    @media screen and (max-width:1024px) { 
+    #image1{
+    height:200px;
+    }
+  }
+   @media screen and (max-width: 1024px) { 
+    .info{
+    display: flex;
+    flex-direction: column;
+    }
+  }
+   @media screen and (max-width: 1024px) { 
+    .clients{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right:50px;
+    padding-bottom:30px ;
+    align-items: flex-end;
+    }
+  }
+      @media screen and (max-width: 1024px) { 
+      .canvas0{
+        position: absolute;
+        width: 95%;
+        height: 9px;
+        background-color: #E93656;        
+        transition: all ease-in-out 0.3s;
+      }
+    }
+    @media screen and (max-width: 1370px) {
+      .home-container {
+      max-width: 768px;
+      width: 100%;
+      background-color: white;
+      }
+    }
+      @media screen and (max-width: 1370px) {
+      .container{
+      max-width:100%;
+      align-items: center;
+      margin: auto;   
+      }
+    }
+       /*  responsive - header area */
+      @media screen and (max-width: 1370px) {
+      .more-about-my{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      flex-direction: column;
+      }
+    }
+      @media screen and (max-width: 1370px) {
+      .page-title{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      max-height: 40px;
+      }
+    }
+       @media screen and (max-width: 1370px) {    
+      .logo{
+        flex-direction: column;
+        padding-left: 20px;
+        padding-top: 30px;
+      }
+    } 
+      @media screen and (max-width: 1370px) {   
+      .name{
+      font-size: 20px;
+      }
+    }
+      
+      @media screen and (max-width: 1370px) { 
+      .resume{
+       opacity: 100%;
+      }
+    }
+      @media screen and (max-width: 1370px) { 
+      .number{
+      display: none;
+      }
+    }
+      @media screen and (max-width: 1024px) { 
+      .my{
+      display: none;
+      }    
+    }
+      @media screen and (max-width: 1370px) { 
+      .about-my{
+      display: none;
+      }
+    }
+      @media screen and (max-width: 1370px) { 
+      .Briefly-about-my{
+      margin-left: 15px;
+      }
+    }
+      @media screen and (max-width: 1370px) { 
+      #image1{
+      height:200px;
+      }
+    }
+     @media screen and (max-width: 1370px) { 
+      .info{
+      display: flex;
+      flex-direction: column;
+      }
+    }
+     @media screen and (max-width: 1370px) { 
+      .clients{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding-right:50px;
+      padding-bottom:30px ;
+      align-items: flex-end;
+      }
+    }
+        @media screen and (max-width: 1370px) { 
+        .canvas0{
+          position: absolute;
+          width: 95%;
+          height: 9px;
+          background-color: #E93656;
+          transition: all ease-in-out 0.3s;
+        }
+      }
+  
+
+    
+  @media screen and (max-width: 420px) { 
+    .more-info{
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: center;
+     }
+  }
+  @media screen and (max-width: 420px) { 
+    .cover-image{
+      align-items: center;
+      width: 60%;
+      height: auto;
+ }
+}
+  @media screen and (max-width: 420px) { 
+    .name{
+      font-size: 20px;
+      font-weight: bold;
+      text-transform: uppercase;
+      text-align: center;
+      font-family:Arial, Helvetica, sans-serif;
+    }
+  }
+  @media screen and (max-width: 420px) { 
+    .web-designer{
+      font-size: 14px;
+      color:#665314;
+  }
+}
+@media screen and (max-width: 420px) { 
+    .hire-my{
+      font-size: 10px;
+      color: #555555;
+      font-family:Arial, Helvetica, sans-serif;
+      text-align: center;
+     }
+    }
+     @media screen and (max-width: 420px) { 
+     .box-more-info :hover{
+     color: rgb(110, 7, 7);
+     }
+    }
+    @media screen and (max-width: 420px) { 
+    .box-more-info{
+      background-color: #E93656;
+      width: 80px;
+      height: 30px;
+      border-radius: 4px;
+    }
+  }
+  @media screen and (max-width: 420px) { 
+    h3{
+      text-align: center;
+      margin: auto;
+      color: #DDDDDD;
+      font-family:Arial, Helvetica, sans-serif;
+    }
+  }
+  @media screen and (max-width: 420px) { 
+    .branding{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
+  @media screen and (max-width: 420px) { 
+    span{
+      color: #E93656;
+      font-size: 12px;
+      font-weight:lighter;
+    }
+  }
+    @media screen and (max-width: 420px) { 
+    .line, .line1, .line2, .line3{
+      background-color: #a08a8e;
+      width: 100px;
+      height: 9px;
+      background-position: 20%;
+      position: relative;
+      margin-right: 20px;
+    }
+  }
+  @media screen and (max-width: 420px) { 
+    p{
+      font-size: 12px;
+      color: #E93656;
+      font-weight:lighter;
+    }
+  }
+    @media screen and (max-width: 420px) { 
+    .canvas1{
+      position: absolute;
+      width: 80%;
+      height: 9px;
+      background-color: #E93656;        
+      transition: all ease-in-out 0.3s;
+      align-items: center;
+    }
+  }
+  @media screen and (max-width: 420px) { 
+    .canvas2{
+      position: absolute;
+      width: 70%;
+      height: 9px;
+      background-color: #E93656;     
+      transition: all ease-in-out 0.3s;
+      align-items: center;
+    }
+  }
+  @media screen and (max-width: 420px) { 
+    .canvas3{
+      position: absolute;
+      width: 70%;
+      height: 9px;
+      background-color: #E93656;      
+      transition: all ease-in-out 0.3s;
+      align-items: center;
+    }
+  }
+  
+     /*  servises */
+     @media screen and (max-width: 768px) { 
+      .servises{
+       display: flex;
+       flex-direction: column;
+       flex-wrap: wrap;
+       justify-content: center;
+       margin: auto;
+       width: 90%;
+       background-color:white;
+     }
+   }
+   @media screen and (max-width: 768px) { 
+     .more-info{
+       display: flex;
+       flex-direction: column;
+       flex-wrap: wrap;
+       justify-content: center;
+      }
+   }
+   @media screen and (max-width: 768px) { 
+     .cover-image{
+       align-items: center;
+       width: 60%;
+       height: auto;
+  }
+ }
+   @media screen and (max-width: 768px) { 
+     .name{
+       font-size: 20px;
+       font-weight: bold;
+       text-transform: uppercase;
+       text-align: center;
+       font-family:Arial, Helvetica, sans-serif;
+     }
+   }
+   @media screen and (max-width: 768px) { 
+     .web-designer{
+       font-size: 14px;
+       color:#665314;
+   }
+ }
+ @media screen and (max-width: 768px) { 
+     .hire-my{
+       font-size: 10px;
+       color: #555555;
+       font-family:Arial, Helvetica, sans-serif;
+       text-align: center;
+      }
+     }
+      @media screen and (max-width: 768px) { 
+      .box-more-info :hover{
+      color: rgb(110, 7, 7);
+      }
+     }
+     @media screen and (max-width: 768px) { 
+     .box-more-info{
+       background-color: #E93656;
+       width: 80px;
+       height: 30px;
+       border-radius: 4px;
+     }
+   }
+   @media screen and (max-width: 768px) { 
+     h3{
+       text-align: center;
+       margin: auto;
+       color: #DDDDDD;
+       font-family:Arial, Helvetica, sans-serif;
+     }
+   }
+   @media screen and (max-width: 768px) { 
+     .branding{
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+     }
+   }
+   @media screen and (max-width: 768px) { 
+     span{
+       color: #E93656;
+       font-size: 12px;
+       font-weight:lighter;
+     }
+    }
+     @media screen and (max-width: 768px) { 
+     .line, .line1, .line2, .line3{
+       background-color: #a08a8e;
+       width: 100px;
+       height: 9px;
+       background-position: 20%;
+       position: relative;
+       margin-right: 20px;
+     }
+   }
+   @media screen and (max-width: 768px) { 
+     p{
+       font-size: 12px;
+       color: #E93656;
+       font-weight:lighter;
+     }
+    }
+     @media screen and (max-width: 768px) { 
+     .canvas1{
+       position: absolute;
+       width: 80%;
+       height: 9px;
+       background-color: #E93656;       
+       transition: all ease-in-out 0.3s;
+       align-items: center;
+     }
+   }
+   @media screen and (max-width: 768px) { 
+     .canvas2{
+       position: absolute;
+       width: 70%;
+       height: 9px;
+       background-color: #E93656;       
+       transition: all ease-in-out 0.3s;
+       align-items: center;
+     }
+   }
+   @media screen and (max-width: 768px) { 
+     .canvas3{
+       position: absolute;
+       width: 70%;
+       height: 9px;
+       background-color: #E93656;      
+       transition: all ease-in-out 0.3s;
+       align-items: center;
+     }
+   }
+  
+ @media screen and (max-width: 1024px) { 
+  .servises{
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   justify-content: center;
+   margin: auto;
+   width: 90%;
+   background-color:white;
+ }
+}
+@media screen and (max-width: 1024px) { 
+ .more-info{
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   justify-content: center;
+  }
+}
+@media screen and (max-width: 1024px) { 
+ .cover-image{
+   align-items: center;
+   width: 60%;
+   height: auto;
+  }
+}
+@media screen and (max-width: 1024px) { 
+ .name{
+   font-size: 20px;
+   font-weight: bold;
+   text-transform: uppercase;
+   text-align: center;
+   font-family:Arial, Helvetica, sans-serif;
+  }
+}
+@media screen and (max-width: 1024px) { 
+ .web-designer{
+   font-size: 14px;
+   color:#665314;
+  }
+}
+@media screen and (max-width: 1024px) { 
+ .hire-my{
+   font-size: 10px;
+   color: #555555;
+   font-family:Arial, Helvetica, sans-serif;
+   text-align: center;
+  }
+ }
+  @media screen and (max-width: 1024px) { 
+  .box-more-info :hover{
+  color: rgb(110, 7, 7);
+  }
+ }
+ @media screen and (max-width: 1024px) { 
+ .box-more-info{
+   background-color: #E93656;
+   width: 80px;
+   height: 30px;
+   border-radius: 4px;
+  }
+}
+@media screen and (max-width: 1024px) { 
+ h3{
+   text-align: center;
+   margin: auto;
+   color: #DDDDDD;
+   font-family:Arial, Helvetica, sans-serif;
+  }
+}
+@media screen and (max-width: 1024px) { 
+ .branding{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+  }
+}
+@media screen and (max-width: 1024px) { 
+ span{
+   color: #E93656;
+   font-size: 12px;
+   font-weight:lighter;
+  }
+}
+ @media screen and (max-width: 1024px) { 
+ .line, .line1, .line2, .line3{
+   background-color: #a08a8e;
+   width: 100px;
+   height: 9px;
+   background-position: 20%;
+   position: relative;
+   margin-right: 20px;
+ }
+}
+@media screen and (max-width: 1024px) { 
+ p{
+   font-size: 12px;
+   color: #E93656;
+   font-weight:lighter;
+  }
+}
+ @media screen and (max-width: 1024px) { 
+ .canvas1{
+   position: absolute;
+   width: 80%;
+   height: 9px;
+   background-color: #E93656;    
+   transition: all ease-in-out 0.3s;
+   align-items: center;
+  }
+}
+@media screen and (max-width: 1024px) { 
+ .canvas2{
+   position: absolute;
+   width: 70%;
+   height: 9px;
+   background-color: #E93656;   
+   transition: all ease-in-out 0.3s;
+   align-items: center;
+  }
+}
+@media screen and (max-width: 1024px) { 
+ .canvas3{
+   position: absolute;
+   width: 70%;
+   height: 9px;
+   background-color: #E93656;  
+   transition: all ease-in-out 0.3s;
+   align-items: center;
+  }
+}
+@media screen and (max-width: 1370px) { 
+  .servises{
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   justify-content: center;
+   margin: auto;
+   width: 90%;
+   background-color:white;
+  }
+}
+@media screen and (max-width: 1370px) { 
+ .more-info{
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   justify-content: center;
+  }
+}
+@media screen and (max-width: 1370px) { 
+ .cover-image{
+   align-items: center;
+   width: 60%;
+   height: auto;
+}
+}
+@media screen and (max-width: 1370px) { 
+ .name{
+   font-size: 20px;
+   font-weight: bold;
+   text-transform: uppercase;
+   text-align: center;
+   font-family:Arial, Helvetica, sans-serif;
+  }
+}
+@media screen and (max-width: 1370px) { 
+ .web-designer{
+   font-size: 14px;
+   color:#665314;
+  }
+}
+@media screen and (max-width: 1370px) { 
+ .hire-my{
+   font-size: 10px;
+   color: #555555;
+   font-family:Arial, Helvetica, sans-serif;
+   text-align: center;
+  }
+ }
+  @media screen and (max-width: 1370px) { 
+  .box-more-info :hover{
+  color: rgb(110, 7, 7);
+  }
+ }
+ @media screen and (max-width: 1370px) { 
+ .box-more-info{
+   background-color: #E93656;
+   width: 80px;
+   height: 30px;
+   border-radius: 4px;
+  } 
+}
+@media screen and (max-width: 1370px) { 
+ h3{
+   text-align: center;
+   margin: auto;
+   color: #DDDDDD;
+   font-family:Arial, Helvetica, sans-serif;
+  }
+}
+@media screen and (max-width: 1370px) { 
+ .branding{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+  }
+}
+@media screen and (max-width: 1370px) { 
+ span{
+   color: #E93656;
+   font-size: 12px;
+   font-weight:lighter;
+  }
+}
+ @media screen and (max-width: 1370px) { 
+ .line, .line1, .line2, .line3{
+   background-color: #a08a8e;
+   width: 100px;
+   height: 9px;
+   background-position: 20%;
+   position: relative;
+   margin-right: 20px;
+  }
+}
+@media screen and (max-width: 1370px) { 
+ p{
+   font-size: 12px;
+   color: #E93656;
+   font-weight:lighter;
+  }
+}
+ @media screen and (max-width: 1370px) { 
+ .canvas1{
+   position: absolute;
+   width: 80%;
+   height: 9px;
+   background-color: #E93656;
+   transition: all ease-in-out 0.3s;
+   align-items: center;
+ }
+}
+@media screen and (max-width: 1370px) { 
+ .canvas2{
+   position: absolute;
+   width: 70%;
+   height: 9px;
+   background-color: #E93656;
+   transition: all ease-in-out 0.3s;
+   align-items: center;
+ }
+}
+@media screen and (max-width: 1370px) { 
+ .canvas3{
+   position: absolute;
+   width: 70%;
+   height: 9px;
+   background-color: #E93656;
+   transition: all ease-in-out 0.3s;
+   align-items: center;
+ }
+}
+ 
+/* kontact-area */
+@media screen and (max-width: 420px) { 
+.contact-info{
+  height: max-content;
+  }
+}
+@media screen and (max-width: 420px) { 
+.contact-info-box{
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  gap: 20px;
+  }
+}
+@media screen and (max-width: 420px) { 
+.mobile, .user-address-text, .email-address{
+font-size: 18px;
+letter-spacing: 0.4px;
+margin-bottom: 2px;
+font-family:sans-serif;
+  }
+}
+@media screen and (max-width: 420px) { 
+.mobile-number, .email, .address-name{
+  font-size: 14px;
+  }
+}
+@media screen and (max-width: 420px) { 
+.phone-image, .address-image, .email-image{
+  align-items: center;
+  padding-top:20px;
+  margin-bottom: 12px;
+  width: 50px;
+ }
+} 
+@media screen and (max-width: 768px) { 
+  .contact-info{
+    height: max-content;
+    }
+  }
+  @media screen and (max-width: 768px) { 
+  .contact-info-box{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 30px;
+    }
+  }
+  @media screen and (max-width: 768px) { 
+  .mobile, .user-address-text, .email-address{
+  font-size: 18px;
+  letter-spacing: 0.4px;
+  margin-bottom: 2px;
+  font-family:sans-serif;
+    }
+  }
+  @media screen and (max-width: 768px) { 
+  .mobile-number, .email, .address-name{
+    font-size: 14px;
+    }
+  }
+  @media screen and (max-width: 768px) { 
+  .phone-image, .address-image, .email-image{
+    align-items: center;
+    padding-top:20px;
+    margin-bottom: 12px;
+    width: 50px;
+   }
+  } 
+  @media screen and (max-width: 1024px) { 
+    .contact-info{
+      height: max-content;
+      }
+    }
+    @media screen and (max-width:1024px) { 
+    .contact-info-box{
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+      gap: 30px;
+      }
+    }
+    @media screen and (max-width: 1024px) { 
+    .mobile, .user-address-text, .email-address{
+    font-size: 28px;
+    letter-spacing: 0.4px;
+    margin-bottom: 2px;
+    font-family:sans-serif;
+      }
+    }
+    @media screen and (max-width: 1024px) { 
+    .mobile-number, .email, .address-name{
+      font-size: 16px;
+      }
+    }
+    @media screen and (max-width: 1024px) { 
+    .phone-image, .address-image, .email-image{
+      align-items: center;
+      padding-top:20px;
+      margin-bottom: 12px;
+      width: 50px;
+     }
+    } 
+    @media screen and (max-width: 1370px) { 
+      .contact-info{
+        height: max-content;
+        }
+      }
+      @media screen and (max-width: 1370px) { 
+      .contact-info-box{
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        }
+      }
+      @media screen and (max-width: 1370px) { 
+      .mobile, .user-address-text, .email-address{
+      font-size: 18px;
+      letter-spacing: 0.4px;
+      margin-bottom: 2px;
+      font-family:sans-serif;
+        }
+      }
+      @media screen and (max-width: 1370px) { 
+      .mobile-number, .email, .address-name{
+        font-size: 14px;
+        }
+      }
+      @media screen and (max-width: 1370px) { 
+      .phone-image, .address-image, .email-image{
+        align-items: center;
+        padding-top:20px;
+        margin-bottom: 12px;
+        width: 50px;
+       }
+      } 
+/*servises area*/
+ @media screen and (max-width: 420px) { 
+  .latest-projects{
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  justify-content: center;
+  }
+}
+@media screen and (max-width: 768px) { 
+  .latest-projects{
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 50%;  
+  }
+}
+@media screen and (max-width: 1024px) { 
+  .latest-projects{
+   margin: auto;
+  display: flex;
+   flex-wrap: wrap;
+   max-width: 50%;
+  justify-content: center;
+  }
+}
+@media screen and (max-width: 1024px) { 
+  .graphick-design, .about-service{
+    width: 80px;
+  }
+}
+
+@media screen and (max-width: 1370px) { 
+  .latest-projects{
+    margin: auto;
+    display: grid;
+    display: flex;
+   flex-wrap: wrap;
+   max-width: 50%;
+   justify-content: center;
+  }
+}
+   @media screen and (max-width: 420px) { 
+    .menu-box{
+      display: none;
+    }
+  }
+  @media screen and (max-width: 420px) { 
+   .projects{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     max-width: 80%;
+   }
+  }
+  @media screen and (max-width: 768px) { 
+  .project-text{
+   text-align: center;
+   font-size: 50px;
+    }
+  }
+  
+  @media screen and (max-width: 420px) { 
+    .menu-box{
+    display: none;
+    }
+  }
+  @media screen and (max-width: 768px) { 
+   .projects{
+     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 80%;
+   }
+  }
+  @media screen and (max-width: 768px) { 
+  .project-text{
+   text-align: center;
+   font-size: 50px;
+   justify-content: center;
+   max-width: 80%;
+    }
+  }
+   @media screen and (max-width: 768px) { 
+    .menu-box{
+      display: none;
+  }
+  @media screen and (max-width: 1024px) { 
+   .projects{
+     display: flex;
+     flex-wrap: wrap;   
+     justify-content: center;
+     max-width: 80%;
+   }
+  }
+  @media screen and (max-width: 1024px) { 
+  .project-text{
+   text-align: center;
+   font-size: 50px;
+    }
+  }
+  @media screen and (max-width: 1024px) { 
+    .menu-box{
+    display: none;
+    }
+  } 
+  @media screen and (max-width: 1370px) { 
+    .projects{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      max-width: 80%;
+    }
+   }
+   @media screen and (max-width: 1370px) { 
+   .project-text{
+    text-align: center;
+    font-size: 50px;
+     }
+   }
+   @media screen and (max-width: 420px) { 
+     .menu-box{
+     display: none;
+     }
+    }
+    @media screen and (max-width: 420px) { 
+      .articles{
+      display:none;
+      }
+     }
+    @media screen and (max-width: 768px) {
+    .box2{
+      display: none;
+    }
+  }
+  @media screen and (max-width: 768px) { 
+    .articles{
+      display:none;  
+    }
+   }
+  @media screen and (max-width: 1024px) {
+  .box2{
+    display:none;
+    }
+  }
+  @media screen and (max-width: 1024px) { 
+    .articles{
+      display:none;
+    }
+   }
+  @media screen and (max-width: 1370px) {
+    .box2{
+      display:none;
+      }
+    } 
+    @media screen and (max-width: 1370px) { 
+      .articles{
+        display:none;
+      }
+     }
+
+
+@media screen and (max-width: 420px) {
+.news-event-box, .roza-team-box{
+  display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  .news-event-box, .roza-team-box{
+    display: none;
+    }
+  }
+  @media screen and (max-width: 1024px) {
+  .news-event-box, .roza-team-box{
+  display: none;
+  }
+}
+   @media screen and (max-width: 1370px) {
+  .news-event-box, .roza-team-box, .partner-box, .partner{
+  display: none;
+  }
+}
+@media screen and (max-width: 420px) {
+  .contact-my{
+  display:flex;
+ flex-wrap: wrap;
+ }
+}
+@media screen and (max-width: 420px) {
+  #name, #email, #website{
+    width: 100%;
+  }  
+}
+@media screen and (max-width: 768px) {
+  .contact-my{
+  display:flex;
+ flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 768px) {
+  #name, #email, #website{
+    width: 100%;
+  }   
+}
+@media screen and (max-width: 1024px) {
+  .contact-my{
+  display:flex;
+ flex-wrap: wrap;
+ }
+}
+@media screen and (max-width: 1024px) {
+  #name, #email, #website{
+    width: 100%;
+  }   
+}
+@media screen and (max-width: 1370px) {
+  .contact-my{
+  display:flex;
+ flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1370px) {
+  #name, #email, #website{
+    width: 100%;
+  }   
+}
+
+
+
+  
+        
+      
+       
+    
+   
